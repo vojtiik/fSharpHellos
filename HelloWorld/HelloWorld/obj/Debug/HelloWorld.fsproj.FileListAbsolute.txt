@@ -1,0 +1,7 @@
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.XML
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\FSharp.Core.dll
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\FSharp.Core.xml
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

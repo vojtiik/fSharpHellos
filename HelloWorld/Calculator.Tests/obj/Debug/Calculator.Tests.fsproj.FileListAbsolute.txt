@@ -1,0 +1,13 @@
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\obj\Debug\Calculator.Tests.fsprojResolveAssemblyReference.cache
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\Calculator.Tests.XML
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\FSharp.Core.dll
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\HelloWorld.exe
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\xunit.dll
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\HelloWorld.pdb
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\HelloWorld.xml
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\FSharp.Core.xml
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\bin\Debug\xunit.xml
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+c:\users\vmares\documents\visual studio 2013\Projects\HelloWorld\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
